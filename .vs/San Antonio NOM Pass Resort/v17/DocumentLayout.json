@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\billing\u0026payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\billing\u0026payment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\signin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\signin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\roomsearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\roomsearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\daytime option.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\daytime option.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\aboutus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\aboutus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\daytime option.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\daytime option.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\contact.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\contact.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\client.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\client.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\roomsearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\roomsearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\signin.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\signin.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\user.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\user.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\roomsearch.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\roomsearch.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\signup.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\signup.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\homepage.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\homepage.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\contact.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\contact.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\billing\u0026payment.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\billing\u0026payment.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|c:\\users\\valen\\onedrive\\desktop\\case study\\combined-2\\san antonio nom pass resort\\client.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F088A165-0318-4DD6-9088-63017A923936}|San Antonio NOM Pass Resort\\San Antonio NOM Pass Resort.vbproj|solutionrelative:san antonio nom pass resort\\client.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUp.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\SignUp.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\SignUp.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\SignUp.vb [Design]",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\SignUp.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T16:40:27.575Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\User.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\User.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\User.vb [Design]",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\User.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T19:41:20.754Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Billing\u0026Payment.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Billing\u0026Payment.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\Billing\u0026Payment.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Billing\u0026Payment.vb [Design]",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\Billing\u0026Payment.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T16:36:31.576Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Homepage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Homepage.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\Homepage.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Homepage.vb [Design]",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\Homepage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T16:37:04.027Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignIn.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\SignIn.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\SignIn.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\SignIn.vb [Design]",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\SignIn.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T19:43:47.037Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomSearch.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\RoomSearch.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\RoomSearch.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\RoomSearch.vb [Design]",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\RoomSearch.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T16:36:48.342Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Daytime Option.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Daytime Option.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\Daytime Option.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Daytime Option.vb [Design]",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\Daytime Option.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T20:28:44.952Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutUs.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\AboutUs.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\AboutUs.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\AboutUs.vb [Design]",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\AboutUs.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T18:28:01.628Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Daytime Option.vb",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Daytime Option.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\Daytime Option.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Daytime Option.vb",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\Daytime Option.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T21:25:49.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationEvents.vb",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\ApplicationEvents.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\ApplicationEvents.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\ApplicationEvents.vb",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\ApplicationEvents.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T16:36:30.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.vb",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Contact.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\Contact.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Contact.vb",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\Contact.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T16:36:26.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.vb",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Client.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\Client.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Client.vb",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\Client.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T16:36:14.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomSearch.vb",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\RoomSearch.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\RoomSearch.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\RoomSearch.vb",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\RoomSearch.vb",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-11T04:02:39.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignIn.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\SignIn.Designer.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\SignIn.Designer.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\SignIn.Designer.vb",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\SignIn.Designer.vb",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAiwPEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T19:43:54.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\User.Designer.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\User.Designer.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\User.Designer.vb",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\User.Designer.vb",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAiwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T19:41:28.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoomSearch.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\RoomSearch.Designer.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\RoomSearch.Designer.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\RoomSearch.Designer.vb",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\RoomSearch.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T19:40:51.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Homepage.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Homepage.Designer.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\Homepage.Designer.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Homepage.Designer.vb",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\Homepage.Designer.vb",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T19:38:37.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Contact.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Contact.Designer.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\Contact.Designer.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Contact.Designer.vb",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\Contact.Designer.vb",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T19:36:39.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SignUp.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\SignUp.Designer.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\SignUp.Designer.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\SignUp.Designer.vb",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\SignUp.Designer.vb",
+              "ViewState": "AQIAANMAAAAAAAAAAAAiwPwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T16:40:39.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Billing\u0026Payment.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Billing\u0026Payment.Designer.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\Billing\u0026Payment.Designer.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Billing\u0026Payment.Designer.vb",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\Billing\u0026Payment.Designer.vb",
+              "ViewState": "AQIAABYCAAAAAAAAAAAiwD4CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T19:34:23.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Client.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Client.Designer.vb",
+              "RelativeDocumentMoniker": "San Antonio NOM Pass Resort\\Client.Designer.vb",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Desktop\\CASE STUDY\\Combined-2\\San Antonio NOM Pass Resort\\Client.Designer.vb",
+              "RelativeToolTip": "San Antonio NOM Pass Resort\\Client.Designer.vb",
+              "ViewState": "AQIAAMsBAAAAAAAAAAAiwPQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-10T18:26:08.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

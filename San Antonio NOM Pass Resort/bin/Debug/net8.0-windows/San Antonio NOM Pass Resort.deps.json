@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "San Antonio NOM Pass Resort/1.0.0": {
+        "runtime": {
+          "San Antonio NOM Pass Resort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "San Antonio NOM Pass Resort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

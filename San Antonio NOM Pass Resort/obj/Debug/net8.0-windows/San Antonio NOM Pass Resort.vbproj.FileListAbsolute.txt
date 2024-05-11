@@ -1,0 +1,36 @@
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\bin\Debug\net8.0-windows\San Antonio NOM Pass Resort.exe
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\bin\Debug\net8.0-windows\San Antonio NOM Pass Resort.deps.json
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\bin\Debug\net8.0-windows\San Antonio NOM Pass Resort.runtimeconfig.json
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\bin\Debug\net8.0-windows\San Antonio NOM Pass Resort.dll
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\bin\Debug\net8.0-windows\San Antonio NOM Pass Resort.pdb
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San_Antonio_NOM_Pass_Resort.AboutUs.resources
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San_Antonio_NOM_Pass_Resort.Admin.resources
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San_Antonio_NOM_Pass_Resort.Billing_Payment.resources
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San_Antonio_NOM_Pass_Resort.change.resources
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San_Antonio_NOM_Pass_Resort.Client.resources
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San_Antonio_NOM_Pass_Resort.Contact.resources
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San_Antonio_NOM_Pass_Resort.Form1.resources
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San_Antonio_NOM_Pass_Resort.Resources.resources
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San_Antonio_NOM_Pass_Resort.Room.resources
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San_Antonio_NOM_Pass_Resort.Rooms.resources
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San_Antonio_NOM_Pass_Resort.RoomSearch.resources
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.vbproj.GenerateResource.cache
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.AssemblyInfo.vb
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.vbproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.sourcelink.json
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.dll
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\refint\San Antonio NOM Pass Resort.dll
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.pdb
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.genruntimeconfig.cache
+C:\Users\valen\source\repos\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\ref\San Antonio NOM Pass Resort.dll
+C:\Users\Admin\Downloads\San-Antonio-Nom-Pass-Resort\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.dll
+C:\Users\Admin\Downloads\San-Antonio-Nom-Pass-Resort\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\refint\San Antonio NOM Pass Resort.dll
+C:\Users\Admin\Downloads\San-Antonio-Nom-Pass-Resort\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.pdb
+C:\Users\valen\OneDrive\Desktop\CASE STUDY\SAN ANTONIO NOM PASS NEW\San-Antonio-Nom-Pass-Resort\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.dll
+C:\Users\valen\OneDrive\Desktop\CASE STUDY\SAN ANTONIO NOM PASS NEW\San-Antonio-Nom-Pass-Resort\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\refint\San Antonio NOM Pass Resort.dll
+C:\Users\valen\OneDrive\Desktop\CASE STUDY\SAN ANTONIO NOM PASS NEW\San-Antonio-Nom-Pass-Resort\San-Antonio-Nom-Pass-Resort\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.pdb
+C:\Users\valen\OneDrive\Desktop\CASE STUDY\Combined-2\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.dll
+C:\Users\valen\OneDrive\Desktop\CASE STUDY\Combined-2\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\refint\San Antonio NOM Pass Resort.dll
+C:\Users\valen\OneDrive\Desktop\CASE STUDY\Combined-2\San Antonio NOM Pass Resort\obj\Debug\net8.0-windows\San Antonio NOM Pass Resort.pdb
